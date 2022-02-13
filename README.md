@@ -12,8 +12,8 @@ Run this in your servers command line:
 
 ```
 curl -O https://raw.githubusercontent.com/AuthwareCloud/openvpn-setup-script/main/authware-openvpn-install.sh
-chmod +x openvpn-install.sh
-./openvpn-install.sh
+chmod +x authware-openvpn-install.sh
+./authware-openvpn-install.sh
 ```
 
 ## 📜 License
