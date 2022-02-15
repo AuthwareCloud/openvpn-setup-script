@@ -3,7 +3,7 @@
   <h1 align="center">Authware OpenVPN setup script</h1>
   <p align="center">This script installs and configures OpenVPN on a server for the Authware OpenVPN authentication. This script is a modified version of the original OpenVPN setup script, which can be found below</p>
    <p align="center">
-  <a href="https://github.com/Angristan/OpenVPN-install">Original script</a>
+  <a href="https://github.com/Nyr/openvpn-install">Original script</a>
   </p>
 </p>
 
